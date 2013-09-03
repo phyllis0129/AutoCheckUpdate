@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="whilte">#FFFFFF</color>
+    <color name="sight_item_click">#84d3ef</color>
+	<color name="common_color_line">#ffe8e8e8</color>
+    <color name="common_color_layout_background">#ffcccccc</color>
+    <color name="common_color_white">#ffffffff</color>
+    <color name="common_color_orange">#fff7941d</color>
+    <color name="common_color_red">#ffff0000</color>
+    <color name="common_color_green">#ff02bb62</color>
+    <color name="common_color_black">#ff000000</color>
+    <color name="common_color_yellow">#ffff7800</color>
+    <color name="common_color_gray">#ff7f8081</color>
+    <color name="common_color_blue">#ff0d747a</color>
+    <color name="common_color_light_gray">#ff6d6d6d</color>
+    <color name="common_color_deep_orange">#ffff4400</color>
+    <color name="common_color_light_orange">#fffdfee3</color>
+    <color name="common_color_light_blue">#fff7fcff</color>
+    <color name="tab_item_color_normal">#ffc3c3c3</color>
+    <color name="flight_color_blue">#ff229ea5</color>
+    <color name="flight_color_gray">#ff666666</color>
+    <color name="flight_color_orange">#fff7941d</color>
+    <color name="color_list_divider">#ffe1e1e1</color>
+    <color name="color_list_background">#fff5f5f5</color>
+    <color name="railway_detail_hideview">#ffeeeeee</color>
+    <color name="railway_detail_line">#ffd1d3d4</color>
+    <color name="filter_color_black">#ff2a2a2a</color>
+    <color name="filter_color_gray">#ff3e3e3e</color>
+    <color name="ota_item_readed">#88dddddd</color>
+    <color name="ota_item_unread">#fff5f5f5</color>    
+</resources>
